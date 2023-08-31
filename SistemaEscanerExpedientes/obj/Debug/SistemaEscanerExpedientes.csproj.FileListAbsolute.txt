@@ -1,0 +1,14 @@
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\bin\Debug\SistemaEscanerExpedientes.exe.config
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\bin\Debug\SistemaEscanerExpedientes.exe
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\bin\Debug\SistemaEscanerExpedientes.pdb
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.Login.resources
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.Properties.Resources.resources
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.csproj.GenerateResource.cache
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.csproj.CoreCompileInputs.cache
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.exe
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.pdb
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\bin\Debug\EntityFramework.dll
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\bin\Debug\EntityFramework.xml
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.csprojAssemblyReference.cache
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.USUARIOS.AgregarUsuario.resources
+C:\Users\yajai\Desktop\ABY PRACTICA\Proyectos\Expedientes\SistemaExpediente\SistemaEscanerExpedientes\SistemaEscanerExpedientes\obj\Debug\SistemaEscanerExpedientes.csproj.CopyComplete
